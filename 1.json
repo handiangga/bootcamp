@@ -1,0 +1,22 @@
+let obj = {
+  "name": "Handi Angga Widjadja",
+  "age": 23,
+  "address": "Kaliurang km 10",
+  "hobbies": ["futsal", "basket", "gaming"],
+  "is_married": false,
+  "list_school": {
+    "name": "Universitas Islam Indonesia",
+    "year_in": 2014,
+    "year_out": 2018,
+    "major": "Teknik Informatika"
+  },
+  "skills": {
+    "php": "beginner",
+    "css": "beginner",
+    "html": "beginner",
+    "javascript": "beginner"
+  },
+  "interest_in_coding": true
+}
+
+console.log(obj);
